@@ -47,7 +47,11 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\AnimationScript.cs" />
+     <Compile Include="Assets\AudioControl.cs" />
+     <Compile Include="Assets\BlueSwitchColor.cs" />
+     <Compile Include="Assets\RedSwitchColor.cs" />
      <Compile Include="Assets\SwitchColors.cs" />
+     <Compile Include="Assets\YellowSwitchColor.cs" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
      <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
      <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
